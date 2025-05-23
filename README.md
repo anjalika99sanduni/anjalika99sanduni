@@ -40,37 +40,6 @@ Currently, I'm honing my skills in data analysis, data visualization, and dashbo
 
 ---
 
-## 📈 Projects
-
-- **2024 Sri Lanka General Election Results Analysis using Power BI**
-  - Designed custom district maps and interactive dashboards for visualizing votes and trends.
-  - Developed dynamic visuals and custom DAX queries for district-specific insights.
-- **Sri Lanka Women’s Cricket Dashboard (Power BI)**
-  - Created interactive dashboards for WT20Is, WODIs, and top players.
-  - Tracked player and team performance with dynamic visuals.
-- **HR Attrition Dashboard (SQL & Power BI)**
-  - Analyzed employee turnover trends using SQL and Power BI.
-  - Identified key retention factors through interactive visualizations.
-- **Pizza Sales Analysis & Interactive Dashboard**
-  - Analyzed sales data and trends with Power BI and SQL.
-  - Identified best-selling categories and underperforming products.
-
----
-
-## 📚 Education & Certifications
-
-- **BSc in Statistics & Computer Science** – University of Colombo
-- **Data Science Foundation** – Great Learning Academy
-- **Data Analysis using Excel** – Great Learning Academy
-- **R Programming for Data Science Essential** – Coursera
-- **Introduction to R Programming for Data Science** – University of Moratuwa
-- **Data Analysis with R Programming** – Coursera
-- **Python for Beginners** – Coursera
-- **Microsoft Power BI – Enhance Your Data Analysis and Visualization Skills** – Udemy
-- **Microsoft Power BI: A Comprehensive Guide** – Udemy
-
----
-
 ## 💬 Let's Connect
 
 - **Email:** anjalika99sanduni@gmail.com
