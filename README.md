@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate in Statistics & Computer Science | University of Colombo | Aspiring Data Analyst</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AnjalikaSanduni&label=Profile%20views&color=0e75b6&style=flat" alt="AnjalikaSanduni" />
+  <img src="[https://komarev.com/ghpvc/?username=AnjalikaSanduni&label=Profile%20views&color=0e75b6&style=flat" alt="AnjalikaSanduni" />](https://github.com/anjalika99sanduni/anjalika99sanduni/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 </p>
 
 <table align="justify" border="none">
