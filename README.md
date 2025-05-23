@@ -25,7 +25,7 @@
 <table align="center" border="none">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnjalikaSanduni&show_icons=true&theme=radical" height="180em" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalika)](https://github.com/anjalika/github-readme-stats)
 </td>
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnjalikaSanduni&theme=radical" height="180em" />
