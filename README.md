@@ -27,6 +27,19 @@ Currently, I'm honing my skills in data analysis, data visualization, and dashbo
 
 ---
 
+## 🔧 Skills & Badges
+
+![My Skills](https://skillicons.dev/icons?i=py,r,sql,powerbi,excel,html,css)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Excel](https://img.shields.io/badge/excel-%231DA462.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
 ## 📈 Projects
 
 - **2024 Sri Lanka General Election Results Analysis using Power BI**
