@@ -62,37 +62,27 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="MATLAB logo"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV logo"/>
+  <img width="8"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img width="8"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img width="8"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img width="8"/>
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo"/>
   <img width="8"/>
-  <!-- R -->
-  <img src="https://skillicons.dev/icons?i=r" height="40" alt="R logo"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch logo"/>
   <img width="8"/>
-  <!-- SQL -->
-  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="SQL logo"/>
-  <img width="8"/>
-  <!-- Power BI -->
-  <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="Power BI logo"/>
-  <img width="8"/>
-  <!-- Tableau (custom SVG) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau logo"/>
-  <img width="8"/>
-  <!-- SPSS (custom SVG) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="40" alt="SPSS logo"/>
-  <img width="8"/>
-  <!-- Excel -->
-  <img src="https://skillicons.dev/icons?i=excel" height="40" alt="Excel logo"/>
-  <img width="8"/>
-  <!-- PowerPoint -->
-  <img src="https://skillicons.dev/icons?i=powerpoint" height="40" alt="PowerPoint logo"/>
-  <img width="8"/>
-  <!-- Word (custom PNG) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-plain.svg" height="40" alt="Word logo"/>
-  <img width="8"/>
-  <!-- HTML -->
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo"/>
-  <img width="8"/>
-  <!-- CSS -->
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow logo"/>
+
 </p>
 
 <p align="center">
