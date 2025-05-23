@@ -9,12 +9,18 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently sharpening my skills in **data analysis, visualization, and dashboard design**
+- 🎓 I’m an undergraduate at **University of Colombo** (BSc in Statistics & Computer Science)
+- 🌱 Currently learning and exploring **data analysis, visualization, and dashboard design**
+- 🗣️ Languages: **Sinhala, English**
 - 📫 How to reach me: **anjalika99sanduni@gmail.com**
+- 📞 Phone: **+94 757978445 / +94 762721549**
 - ⚡ Fun fact: **I love turning data into actionable insights!**
+
 </td>
 <td width="50%" align="center">
-  <img src="https://github.com/AnjalikaSanduni/AnjalikaSanduni/blob/main/cover.jpeg" alt="cover" width="500" />
+
+<img src="https://github.com/AnjalikaSanduni/AnjalikaSanduni/blob/main/cover.jpeg" width="400px" alt="cover image">
+
 </td>
 </tr>
 </table>
@@ -25,25 +31,25 @@
 <table align="center" border="none">
 <tr border="none">
 <td width="50%" align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalika)](https://github.com/anjalika/github-readme-stats)
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnjalikaSanduni&theme=solarized_dark" height="180em" />
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnjalikaSanduni&theme=radical" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnjalikaSanduni&theme=solarized_dark&v=1" height="180em" />
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjalikaSanduni&layout=compact&theme=radical" height="180em"/><br>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnjalikaSanduni&theme=solarized_dark" height="180em"/><br>
 </p>
 
 <table align="center" border="none">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AnjalikaSanduni&theme=radical" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnjalikaSanduni&theme=solarized_dark" height="180em" />
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnjalikaSanduni&repo=AnjalikaSanduni&theme=radical" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnjalikaSanduni&theme=solarized_dark" height="180em" />
 </td>
 </tr>
 </table>
@@ -52,7 +58,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/anjalika-sanduni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjalika-sanduni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anjalika-sanduni" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjalika-sanduni" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -70,4 +78,18 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo"/>
   <img width="8"/>
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=powerpoint" height="40" alt="PowerPoint logo"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo"/>
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="40" alt="SPSS logo"/>
 </p>
+
+<p align="center">
+  <b>Core Skills:</b> Data Analysis, Data Visualization, Regression, Statistics, Data Cleaning, Dashboard Design
+</p>
+
+---
+
+> 🌱 Always learning and growing as I pursue a career in data analytics.
