@@ -73,8 +73,6 @@
   <img width="8"/>
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo"/>
   <img width="8"/>
-  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="SQL logo"/>
-  <img width="8"/>
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="R logo"/>
   <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="40" alt="SPSS logo"/>
