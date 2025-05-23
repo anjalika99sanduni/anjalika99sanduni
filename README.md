@@ -15,7 +15,7 @@
 </td>
 <td width="50%" align="center">
 
-<img  src = "https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif?raw=true" width = 500px>
+<img  src = "[https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif?raw=true](https://github.com/anjalika99sanduni/anjalika99sanduni/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)" width = 500px>
   
   </td>
 </tr>
