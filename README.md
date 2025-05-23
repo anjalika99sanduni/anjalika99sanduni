@@ -62,26 +62,37 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo"/>
   <img width="8"/>
+  <!-- R -->
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="R logo"/>
   <img width="8"/>
+  <!-- SQL -->
   <img src="https://skillicons.dev/icons?i=sql" height="40" alt="SQL logo"/>
   <img width="8"/>
+  <!-- Power BI -->
   <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="Power BI logo"/>
   <img width="8"/>
+  <!-- Tableau (custom SVG) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau logo"/>
+  <img width="8"/>
+  <!-- SPSS (custom SVG) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="40" alt="SPSS logo"/>
+  <img width="8"/>
+  <!-- Excel -->
   <img src="https://skillicons.dev/icons?i=excel" height="40" alt="Excel logo"/>
   <img width="8"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo"/>
-  <img width="8"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo"/>
-  <img width="8"/>
+  <!-- PowerPoint -->
   <img src="https://skillicons.dev/icons?i=powerpoint" height="40" alt="PowerPoint logo"/>
   <img width="8"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo"/>
+  <!-- Word (custom PNG) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-plain.svg" height="40" alt="Word logo"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="40" alt="SPSS logo"/>
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo"/>
+  <img width="8"/>
+  <!-- CSS -->
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo"/>
 </p>
 
 <p align="center">
