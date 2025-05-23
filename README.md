@@ -19,7 +19,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="https://github.com/AnjalikaSanduni/AnjalikaSanduni/blob/main/cover.jpeg" width="400px" alt="cover image">
+<img src="[https://github.com/AnjalikaSanduni/AnjalikaSanduni/blob/main/cover.jpeg" width="400px" alt="cover image](https://github.com/anjalika99sanduni/anjalika99sanduni/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)">
 
 </td>
 </tr>
