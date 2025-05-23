@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AnjalikaSanduni/AnjalikaSanduni/blob/main/cover.jpeg" alt="cover" style="width:100%; max-width:900px;" />
+  <img src="https://github.com/anjalika99sanduni/anjalika99sanduni/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" alt="cover" style="width:100%; max-width:900px;" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#f36;">Anjalika Sanduni</span></h1>
