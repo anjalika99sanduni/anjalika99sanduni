@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashini Madeesha</h1>
-<h3 align="center">Undergraduate student in Finance and Insurance (Hons) with a passion for Actuarial Science and Data Science</h3>
+<h1 align="center">Hi 👋, I'm Anjalika sanduni</h1>
+<h3 align="center">Undergraduate in Statistics & Computer Science | University of Colombo | Aspiring Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madeeshaa&label=Profile%20views&color=0e75b6&style=flat" alt="madeeshaa" /> </p>
 
@@ -7,11 +7,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning *machine learning*
+- 🌱 I’m currently learning *tableau*
 
-- 📫 How to reach me *ashinimadeesha01@gmail.com*
+- 📫 How to reach me *anjalika99sanduni@gmail.com*
 
-- ⚡ Fun fact *call me as Ashi..*
+- ⚡ Fun fact *call me as Anjalika..*
 </td>
 <td width="50%" align="center">
 
@@ -29,11 +29,11 @@
 <tr border="none">
 <td width="50%" align="center">
   
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Madeeshaa&theme=solarized_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjalika99sanduni&theme=solarized_dark" height="180em" />
 
 </td>
 <td width="50%" align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Madeeshaa&theme=solarized_dark&v=1" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjalika99sanduni&theme=solarized_dark&v=1" height="180em" />
 
   
   </td>
@@ -41,20 +41,20 @@
 </table>
 
   <p align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madeeshaa&theme=solarized_dark" height="180em"/><br>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjalika99sanduni&theme=solarized_dark" height="180em"/><br>
 
   </p>
 
 <table align="center" border="none">
 <tr border="none">
 <td width="50%" align="center">
-          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madeeshaa&theme=solarized_dark" height="180em" />
+          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjalika99sanduni&theme=solarized_dark" height="180em" />
 
   
 
 </td>
 <td width="50%" align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Madeeshaa&theme=solarized_dark" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjalika99sanduni&theme=solarized_dark" height="180em" />
 
 
   
@@ -66,7 +66,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/ashini-madeesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashini-madeesha" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/ashini-madeesha](https://www.linkedin.com/in/anjalika-sanduni-46737a309/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjalika-sanduni" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
