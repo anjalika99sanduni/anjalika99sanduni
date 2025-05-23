@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjalika sanduni</h1>
 <h3 align="center">Undergraduate in Statistics & Computer Science | University of Colombo | Aspiring Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalika99sanduni&label=Profile%20views&color=0e75b6&style=flat" alt="anjalika99sanduni" /> </p>
 
 <table align="justify" border="none">
 <tr border="none">
