@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjalika sanduni</h1>
 <h3 align="center">Undergraduate in Statistics & Computer Science | University of Colombo | Aspiring Data Analyst</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalika99sanduni&label=Profile%20views&color=0e75b6&style=flat" alt="anjalika99sanduni" /> </p>
 
 <table align="justify" border="none">
 <tr border="none">
@@ -20,8 +21,7 @@
 </tr>
 </table>
 
-<img src="(https://github.com/anjalika99sanduni/anjalika99sanduni/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)" width = 500px>
-">
+
 
 
 <p align="center">
