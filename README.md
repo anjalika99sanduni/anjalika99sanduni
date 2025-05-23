@@ -21,7 +21,8 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="(https://github.com/anjalika99sanduni/anjalika99sanduni/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)" width = 500px>
+">
 
 
 <p align="center">
