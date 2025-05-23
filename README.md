@@ -17,6 +17,7 @@
 - 🗣️ Languages: **Sinhala, English**
 - 📫 How to reach me: **anjalika99sanduni@gmail.com**
 - 📞 Phone: **+94 757978445 / +94 762721549**
+- 👋 Linkedin: **www.linkedin.com/in/anjalika-sanduni-46737a309**
 - ⚡ Fun fact: *Call me Anjalika..*
 
 </tr>
