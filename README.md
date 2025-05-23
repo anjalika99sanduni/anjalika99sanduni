@@ -69,20 +69,10 @@
   <img width="8"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo"/>
   <img width="8"/>
-  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV logo"/>
-  <img width="8"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   <img width="8"/>
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo"/>
   <img width="8"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch logo"/>
-  <img width="8"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow logo"/>
-
 </p>
 
 <p align="center">
