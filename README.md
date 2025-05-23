@@ -11,7 +11,6 @@
 
 <table align="justify" border="none">
 <tr border="none">
-<td width="50%" align="left">
 
 - 🎓 I’m an undergraduate at **University of Colombo** (BSc in Statistics & Computer Science)
 - 🌱 I’m currently learning *Tableau*
@@ -20,12 +19,6 @@
 - 📞 Phone: **+94 757978445 / +94 762721549**
 - ⚡ Fun fact: *Call me Anjalika..*
 
-</td>
-<td width="50%" align="center">
-
-<img src="https://github.com/anjalika99sanduni/anjalika99sanduni/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" width="350px" alt="cover image">
-
-</td>
 </tr>
 </table>
 
